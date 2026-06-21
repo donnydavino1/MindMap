@@ -1471,7 +1471,7 @@ class TaskManager:
     def _write_backup(self, path):
         if not os.path.exists(path):
             return
-        d = os.path.join(os.path.dirname(path) or ".", "../.task_backups")
+        d = os.path.join(os.path.dirname(path) or ".", ".task_backups")
         os.makedirs(d, exist_ok=True)
         stamp = dt.datetime.now().strftime("%Y%m%d-%H%M%S")
         base = os.path.basename(path)
