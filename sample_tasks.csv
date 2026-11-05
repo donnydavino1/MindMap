@@ -1,0 +1,101 @@
+ID,Task,Category,Subcategory,Tags,Urgency,Importance,Horizon,Motivation,Status,Start Date,Due Date,Date Created,Date Completed,Recurrence,Estimate,Actual,Blocked By,Subtasks,Link,Notes,Archived,Parent
+0,Plan Adirondack hiking trip,Travel,Adirondacks,hiking;trip,3,1,Medium-term,Joy,In Progress,2026-09-21,2026-12-15,2026-09-20,,,2,0.8,,,https://www.recreation.gov,"Long weekend in the High Peaks, aiming for late spring.",,
+1,Choose route,Travel,Adirondacks,hiking;trip,2,2,Short-term,Joy,In Progress,2026-10-25,2026-11-15,2026-10-25,,,1,0.4,,,https://www.recreation.gov,Pick between Algonquin/Iroquois loop and Marcy.,,0
+2,Compare trail options,Travel,Adirondacks,hiking;trip,2,3,Short-term,Joy,Complete,2026-08-29,2026-11-02,2026-08-28,2026-11-02,,0.5,0.6,,,https://www.recreation.gov,"Distance, elevation gain, and crowding for each loop.",,1
+3,Check trail conditions,Travel,Adirondacks,hiking;trip,2,3,Long-term,Obligation,Open,2026-10-24,2026-11-13,2026-10-23,,,1,0,,,https://www.recreation.gov,Look at recent trip reports for ice and mud.,,2
+4,Download offline maps,Travel,Adirondacks,hiking;trip,3,2,Long-term,Obligation,Open,2026-10-30,2026-11-14,2026-10-24,,,1,0,,,https://www.recreation.gov,Save the topo maps to the phone and a paper backup.,,3
+5,Print paper map and compass check,Travel,Adirondacks,hiking;trip,4,2,Short-term,Obligation,Open,2026-10-28,2026-11-17,2026-10-24,,,0.5,0,,,https://www.recreation.gov,Waterproof print; confirm declination.,,3
+6,Gear,Travel,Adirondacks,hiking;trip,3,2,Long-term,Obligation,Open,2026-10-26,2026-12-05,2026-10-25,,,0.5,0,,,https://www.recreation.gov,"Everything to buy, test, and pack.",,0
+7,Buy hiking boots,Travel,Adirondacks,hiking;trip,1,2,Short-term,Obligation,Open,2026-09-27,2026-11-19,2026-09-24,,,2,0,,,https://www.recreation.gov,"Waterproof, mid height; try on in the afternoon.",,6
+8,Test tent,Travel,Adirondacks,hiking;trip,3,3,Short-term,Joy,Open,2026-10-20,2026-11-30,2026-10-16,,,1.5,0,,,https://www.recreation.gov,Set up in the backyard before the trip.,,6
+9,Seam-seal tent,Travel,Adirondacks,hiking;trip,3,3,Medium-term,Obligation,Open,2026-10-22,2026-11-27,2026-10-18,,,1,0,,,https://www.recreation.gov,Needs a dry day and seam sealer.,,8
+10,Replace broken tent stakes,Travel,Adirondacks,hiking;trip,4,4,Short-term,Joy,Open,2026-10-23,2026-11-25,2026-10-19,,,0.5,0,,,https://www.recreation.gov,Order 6 lightweight stakes.,,8
+11,Book permits and parking,Travel,Adirondacks,hiking;trip,2,1,Short-term,Obligation,Open,2026-10-28,2026-11-26,2026-10-24,,,1,0,1,,https://www.recreation.gov,Check camping reservation rules for the area.,,0
+12,Renovate kitchen,Home,Kitchen,renovation;diy,3,2,Long-term,Obligation,In Progress,2026-10-08,2026-12-30,2026-10-05,,,4,2.4,,,https://www.familyhandyman.com,"Update counters, backsplash and lighting over the winter.",,
+13,Design and budget,Home,Kitchen,renovation;diy,2,1,Medium-term,Joy,Complete,2026-09-24,2026-10-28,2026-09-21,2026-10-26,,8,8,,,https://www.familyhandyman.com,"Settle layout, finishes and a firm budget.",,12
+14,Get contractor quotes,Home,Kitchen,renovation;diy,2,2,Short-term,Obligation,Complete,2026-09-30,2026-10-26,2026-09-30,2026-10-22,,3,3.6,,,https://www.familyhandyman.com,At least three written quotes.,,13
+15,Request quote from local electrician,Home,Kitchen,renovation;diy,3,3,Medium-term,Joy,Complete,2026-09-29,2026-10-24,2026-09-25,2026-10-24,,1,1.5,,,https://www.familyhandyman.com,Needs under-cabinet lighting circuit.,,14
+16,Compare quotes in spreadsheet,Home,Kitchen,renovation;diy,3,3,Long-term,Obligation,Complete,2026-09-19,2026-10-27,2026-09-18,2026-10-24,,8,5.6,,,https://www.familyhandyman.com,Line items side by side.,,14
+17,Demolition,Home,Kitchen,renovation;diy,3,3,Short-term,Joy,Open,2026-09-23,2026-11-25,2026-09-18,,,8,0,13,,https://www.familyhandyman.com,Remove old counters and backsplash.,,12
+18,Turn off water and disconnect sink,Home,Kitchen,renovation;diy,3,2,Medium-term,Joy,Open,2026-09-03,2026-11-24,2026-09-03,,,1,0,13,,https://www.familyhandyman.com,Do this the morning of demolition.,,17
+19,Order dumpster rental,Home,Kitchen,renovation;diy,2,3,Short-term,Joy,Open,2026-09-06,2026-11-20,2026-09-01,,,0.5,0,,,https://www.familyhandyman.com,Book for a 3-day rental.,,17
+20,Install new counters,Home,Kitchen,renovation;diy,4,2,Short-term,Obligation,Open,2026-12-05,2026-12-20,2026-09-22,,,6,0,17,,https://www.familyhandyman.com,Templating happens after cabinets are level.,,12
+21,Template visit,Home,Kitchen,renovation;diy,4,3,Long-term,Joy,Open,2026-12-05,2026-12-10,2026-09-12,,,1,0,17,,https://www.familyhandyman.com,Fabricator measures after demolition.,,20
+22,Choose backsplash tile,Home,Kitchen,renovation;diy,3,3,Medium-term,Joy,In Progress,2026-11-01,2026-11-23,2026-10-29,,,2,0.8,,,https://www.familyhandyman.com,Order a sample of three options.,,12
+23,Finish data analysis course,Learning,Python,python;course,3,2,Medium-term,Joy,In Progress,2026-10-14,2026-12-25,2026-10-10,,,3,0.6,,,https://docs.python.org/3,Work through the pandas and visualization modules.,,
+24,Module 1: data cleaning,Learning,Python,python;course,3,2,Long-term,Joy,Complete,2026-10-25,2026-10-30,2026-10-24,2026-10-29,,3,2.7,,,https://docs.python.org/3,Handling missing values and dtypes.,,23
+25,Module 2: groupby and merges,Learning,Python,python;course,3,2,Long-term,Joy,In Progress,2026-09-17,2026-11-13,2026-09-11,,,8,1.6,24,,https://docs.python.org/3,Practice with the sales dataset.,,23
+26,Module 3: plotting,Learning,Python,python;course,3,2,Short-term,Joy,Open,2026-09-07,2026-11-27,2026-09-04,,,3,0,25,,https://docs.python.org/3,Matplotlib basics and styling.,,23
+27,Capstone project,Learning,Python,python;course,3,2,Short-term,Joy,Open,2026-09-12,2026-12-11,2026-09-06,,,3,0,26,,https://docs.python.org/3,Analyze a dataset of personal interest.,,23
+28,Pick a dataset,Learning,Python,python;course,3,3,Long-term,Joy,Open,2026-09-14,2026-12-05,2026-09-13,,,1,0,,,https://docs.python.org/3,Browse public datasets; choose something fun.,,27
+29,Write the report,Learning,Python,python;course,4,2,Short-term,Obligation,Open,2026-10-10,2026-12-23,2026-10-09,,,5,0,28,,https://docs.python.org/3,Short notebook with three charts.,,27
+30,File taxes,Finance,Taxes,taxes;money,2,1,Short-term,Obligation,Open,2026-10-07,2027-02-13,2026-10-02,,,1,0,,,https://www.irs.gov,Gather documents and file before the deadline.,,
+31,Collect W-2 and 1099 forms,Finance,Taxes,taxes;money,2,1,Short-term,Obligation,Open,2026-11-02,2027-01-14,2026-10-30,,,1,0,,,https://www.irs.gov,Check the mailbox and online portals.,,30
+32,Gather donation receipts,Finance,Taxes,taxes;money,3,3,Short-term,Obligation,Open,2026-09-30,2027-01-19,2026-09-28,,,0.5,0,,,https://www.irs.gov,Folder in the desk drawer.,,30
+33,Prepare vegetable beds,Garden,Spring prep,garden;outdoors,3,3,Short-term,Joy,Open,2027-01-04,2027-02-03,2026-10-31,,,2,0,,,https://extension.psu.edu,Get beds ready for the first planting.,,
+34,Test soil pH,Garden,Spring prep,garden;outdoors,3,3,Short-term,Joy,Open,2027-01-04,2027-01-29,2026-09-14,,,0.5,0,,,https://extension.psu.edu,Kit from the garden shop.,,33
+35,Add compost and mulch,Garden,Spring prep,garden;outdoors,4,3,Medium-term,Obligation,Open,2027-01-14,2027-02-01,2026-08-27,,,3,0,34,,https://extension.psu.edu,Order two cubic yards.,,33
+36,Launch portfolio website,Work,Side project,launch;website,2,1,Medium-term,Joy,In Progress,2026-10-28,2026-12-10,2026-10-25,,,3,1.8,,,https://www.atlassian.com/agile,Simple static site with project write-ups.,,
+37,Write project case studies,Work,Side project,launch;website,3,2,Long-term,Joy,In Progress,2026-09-14,2026-11-30,2026-09-11,,,8,3.2,,,https://www.atlassian.com/agile,Three case studies with images.,,36
+38,Buy domain name,Work,Side project,launch;website,4,3,Short-term,Obligation,Complete,2026-09-05,2026-11-01,2026-08-31,2026-10-29,,0.5,0.3,,,https://www.atlassian.com/agile,Pick a short name and register for 2 years.,,36
+39,Set up hosting,Work,Side project,launch;website,3,3,Short-term,Obligation,Open,2026-10-24,2026-12-05,2026-10-23,,,2,0,39,,https://www.atlassian.com/agile,Static hosting with a custom domain.,,36
+40,Practice Spanish for 15 minutes,Learning,Languages,spanish;daily,3,3,Short-term,Obligation,Complete,2026-10-06,2026-11-18,2026-10-02,2026-11-04,daily,8,5.6,,,https://docs.python.org/3,Use a flashcard app.,,
+41,Get flu shot,Health,Checkups,vaccine,1,5,Medium-term,Joy,Open,2026-09-23,2026-12-20,2026-09-17,,,4,0,,,https://www.cdc.gov/healthy-weight-growth,Pharmacy walk-in.,,
+42,Renew passport,Travel,Documents,passport,3,1,Short-term,Obligation,Open,2026-10-07,2026-12-06,2026-10-06,,,8,0,,,https://www.recreation.gov,"Photo, form and fee.",,
+43,Rebalance retirement portfolio,Finance,Investing,retirement,1,3,Medium-term,Obligation,Complete,2026-10-22,2026-12-12,2026-10-16,2026-11-04,,2,1.8,,,https://www.irs.gov,Check allocation targets.,,
+44,Organize game night,Social,Friends,games,4,5,Medium-term,Obligation,Complete,2026-09-14,2026-12-22,2026-09-11,2026-11-04,,1,0.9,,,https://www.meetup.com,Invite six people.,,
+45,Run 5K without stopping,Health,Fitness,running;goal,2,2,Short-term,Obligation,Open,2026-09-06,2026-11-11,2026-09-02,,,8,0,,,https://www.cdc.gov/healthy-weight-growth,"Training plan, three runs a week.",,
+46,Renew driver's license,Admin,Documents,license,3,2,Short-term,Obligation,Open,2026-10-23,2026-12-30,2026-10-18,,,1.5,0,,,https://www.usa.gov,Check the online appointment system.,,
+47,Edit vacation photos,Hobbies,Photography,photos,4,5,Short-term,Obligation,Open,2026-10-08,2026-11-30,2026-10-04,,,2,0,,,https://www.wikipedia.org,Pick the best fifty.,,
+48,Book hotel for conference,Travel,Planning,hotel;work,3,2,Long-term,Obligation,Open,2026-09-21,2026-12-21,2026-09-16,,,6,0,,,https://www.recreation.gov,Close to the venue.,,
+49,Watch lecture on linear algebra,Learning,Math,video,2,3,Short-term,Obligation,Complete,2026-10-14,2026-10-24,2026-10-08,2026-10-23,,1.5,1.4,,,https://docs.python.org/3,Work the example problems.,,
+50,Book annual physical,Health,Checkups,doctor,5,3,Short-term,Obligation,Open,2026-09-04,2026-11-06,2026-08-31,,,0.5,0,,,https://www.cdc.gov/healthy-weight-growth,Request bloodwork as well.,,
+51,Sleep schedule reset,Health,Habits,sleep,3,2,Medium-term,Obligation,Complete,2026-09-01,2026-12-20,2026-08-28,2026-11-04,,0.5,0.6,,,https://www.cdc.gov/healthy-weight-growth,In bed by 10:30 on weekdays.,,
+52,Prune the apple tree,Garden,Trees,pruning,3,3,Short-term,Joy,Open,2026-09-01,2026-12-27,2026-08-31,,,3,0,,,https://extension.psu.edu,"Late winter, remove crossing branches.",,
+53,Order seeds,Garden,Planting,seeds,3,5,Long-term,Obligation,Open,2026-09-13,2026-12-19,2026-09-11,,,1,0,,,https://extension.psu.edu,"Tomatoes, peppers and basil.",,
+54,Water houseplants,Garden,Indoor,plants;weekly,3,3,Short-term,Obligation,In Progress,2026-10-21,2026-11-12,2026-10-16,,weekly,4,0.8,,,https://extension.psu.edu,Check the fern and the peace lily.,,
+55,One-on-one with manager,Work,Meetings,career,3,2,Long-term,Obligation,In Progress,2026-10-22,2026-12-13,2026-10-19,,,1.5,0.9,,,https://www.atlassian.com/agile,Bring career growth questions.,,
+56,Review monthly budget,Finance,Budgeting,budget;monthly,3,2,Long-term,Joy,Open,2026-10-08,2026-12-08,2026-10-06,,monthly,1,0,,,https://www.irs.gov,Compare actual spending to plan.,,
+57,Check visa requirements,Travel,Documents,visa,3,1,Medium-term,Joy,Open,2026-10-31,2026-12-12,2026-10-29,,,3,0,,,https://www.recreation.gov,Look up entry rules for the winter destination.,,
+58,Return library books,Admin,Errands,errands,2,1,Short-term,Obligation,Open,2026-10-03,2026-10-29,2026-09-27,,,1.5,0,,,https://www.usa.gov,Due this week.,,
+59,Write thank-you notes,Social,Family,notes,3,5,Short-term,Joy,Complete,2026-09-29,2026-12-14,2026-09-28,2026-11-04,,8,8,,,https://www.meetup.com,For the recent gifts.,,
+60,Service the furnace,Home,HVAC,house;seasonal,2,2,Short-term,Obligation,Open,2026-10-22,2026-11-27,2026-10-22,,,1,0,,,https://www.familyhandyman.com,Book annual maintenance.,,
+61,Finish the jigsaw puzzle,Hobbies,Games,puzzle,3,1,Short-term,Obligation,Open,2026-10-16,2026-12-21,2026-10-16,,,4,0,,,https://www.wikipedia.org,"1000 pieces, edges done.",,
+62,Update project documentation,Work,Engineering,docs,4,2,Short-term,Obligation,Open,2026-10-02,2026-11-07,2026-10-01,,,3,0,,,https://www.atlassian.com/agile,Fix outdated setup steps.,,
+63,Read one chapter of statistics book,Learning,Reading,books;math,1,2,Short-term,Joy,In Progress,2026-10-08,2026-11-30,2026-10-05,,,1.5,0.6,,,https://docs.python.org/3,Take notes on key formulas.,,
+64,Set up compost bin,Garden,Soil,compost,3,5,Short-term,Joy,Open,2026-11-02,2026-12-27,2026-10-29,,,2,0,,,https://extension.psu.edu,Pick a spot with partial shade.,,
+65,Call parents,Social,Family,family;weekly,5,2,Long-term,Obligation,In Progress,2026-09-10,2026-12-26,2026-09-06,,weekly,6,3.6,,,https://www.meetup.com,Ask about the holiday plans.,,
+66,Shred old paperwork,Admin,Paperwork,privacy,3,4,Short-term,Obligation,Open,2026-10-16,2026-12-14,2026-10-14,,,0.5,0,,,https://www.usa.gov,Keep anything under seven years.,,
+67,Research flights for winter trip,Travel,Planning,flights,2,1,Short-term,Joy,Open,2026-10-29,2026-11-03,2026-10-24,,,6,0,,,https://www.recreation.gov,Compare prices and baggage fees.,,
+68,Replace smoke detector batteries,Home,Safety,safety,3,3,Short-term,Joy,Open,2026-10-10,2026-11-13,2026-10-08,,,8,0,,,https://www.familyhandyman.com,Test every unit afterward.,,
+69,RSVP to wedding,Social,Events,wedding,1,2,Medium-term,Joy,Complete,2026-09-20,2026-11-24,2026-09-20,2026-11-04,,3,3,,,https://www.meetup.com,Reply and book travel.,,
+70,Meal prep for the week,Health,Nutrition,food;weekly,2,1,Medium-term,Joy,Open,2026-10-01,2026-12-27,2026-09-26,,weekly,2,0,,,https://www.cdc.gov/healthy-weight-growth,"Chicken, rice and roasted vegetables.",,
+71,Scan and file important documents,Admin,Paperwork,organize,3,3,Short-term,Obligation,Open,2026-10-23,2026-11-11,2026-10-20,,,0.5,0,,,https://www.usa.gov,"Birth certificate, deed and policies.",,
+72,Organize reference notes,Learning,Notes,notes,4,1,Medium-term,Joy,In Progress,2026-10-27,2026-12-30,2026-10-21,,,1.5,0.9,,,https://docs.python.org/3,Merge duplicates and tag them.,,
+73,Restring the guitar,Hobbies,Music,guitar,4,5,Medium-term,Joy,Open,2026-10-19,2026-10-29,2026-10-13,,,6,0,,,https://www.wikipedia.org,Light gauge strings.,,
+74,Print 3D phone stand,Hobbies,Making,3dprint,2,3,Short-term,Obligation,Open,2026-10-31,2026-11-10,2026-10-26,,,4,0,,,https://www.wikipedia.org,Slice and print overnight.,,
+75,Fix raised bed corner,Garden,Repairs,diy,2,3,Long-term,Obligation,In Progress,2026-10-02,2026-12-25,2026-09-30,,,0.5,0.2,,,https://extension.psu.edu,Replace rotted board.,,
+76,Sign up for local workshop,Learning,Events,workshop,2,4,Short-term,Obligation,In Progress,2026-09-07,2026-11-25,2026-09-01,,,1,0.4,,,https://docs.python.org/3,Check the library calendar.,,
+77,Buy travel adapter,Travel,Gear,gear,3,4,Short-term,Obligation,In Progress,2026-09-09,2026-12-26,2026-09-03,,,6,1.2,,,https://www.recreation.gov,Check plug types.,,
+78,Set up emergency fund transfer,Finance,Savings,savings;goal,5,4,Medium-term,Obligation,In Progress,2026-10-10,2026-11-02,2026-10-06,,,1.5,0.6,,,https://www.irs.gov,Automatic transfer on payday.,,
+79,Stretch routine,Health,Fitness,mobility,3,4,Medium-term,Obligation,Open,2026-10-26,2026-12-25,2026-10-24,,,1,0,,,https://www.cdc.gov/healthy-weight-growth,Ten minutes after work.,,
+80,Update address with bank,Admin,Paperwork,address,3,4,Long-term,Joy,In Progress,2026-09-28,2026-12-22,2026-09-25,,,8,1.6,,,https://www.usa.gov,Also update the insurance company.,,
+81,Pay credit card bill,Finance,Bills,bills;monthly,3,2,Short-term,Joy,Open,2026-09-09,2026-11-02,2026-09-03,,monthly,8,0,,,https://www.irs.gov,Statement balance in full.,,
+82,Make packing list,Travel,Planning,packing,3,3,Short-term,Obligation,Open,2026-10-25,2026-11-11,2026-10-20,,,3,0,,,https://www.recreation.gov,Reuse the template.,,
+83,Dentist cleaning,Health,Checkups,dentist,3,2,Medium-term,Obligation,In Progress,2026-10-05,2026-12-26,2026-10-02,,,6,1.2,,,https://www.cdc.gov/healthy-weight-growth,Schedule the next six-month visit.,,
+84,Deep clean refrigerator,Home,Cleaning,chores,2,1,Long-term,Joy,Open,2026-10-15,2026-12-16,2026-10-13,,,6,0,,,https://www.familyhandyman.com,Wipe shelves and check expiry dates.,,
+85,Clean gutters,Home,Exterior,house;seasonal,3,1,Medium-term,Obligation,Open,2026-09-18,2026-12-13,2026-09-18,,,2,0,,,https://www.familyhandyman.com,"Both sides, check downspouts.",,
+86,Send birthday card to Sam,Social,Family,birthday,1,4,Medium-term,Joy,Open,2026-09-17,2026-12-12,2026-09-11,,,1,0,,,https://www.meetup.com,Mail by Friday to arrive on time.,,
+87,Compare car insurance quotes,Finance,Insurance,insurance,3,3,Medium-term,Obligation,Open,2026-10-30,2026-11-29,2026-10-25,,,1.5,0,,,https://www.irs.gov,Get three quotes.,,
+88,Schedule car oil change,Admin,Errands,car,3,2,Long-term,Joy,Open,2026-09-14,2026-12-17,2026-09-14,,,6,0,,,https://www.usa.gov,"Synthetic oil, rotate tires.",,
+89,Learn a new chord progression,Hobbies,Music,guitar;practice,3,4,Short-term,Obligation,Complete,2026-09-13,2026-12-20,2026-09-09,2026-11-04,,1.5,1.5,,,https://www.wikipedia.org,Practice with a metronome.,,
+90,Reply to unanswered emails,Work,Communication,email,5,1,Short-term,Obligation,Open,2026-09-20,2026-11-29,2026-09-18,,,3,0,,,https://www.atlassian.com/agile,Inbox down to under 20.,,
+91,Try a new bread recipe,Hobbies,Cooking,baking,3,3,Short-term,Joy,Open,2026-09-12,2026-11-08,2026-09-11,,,1.5,0,,,https://www.wikipedia.org,Sourdough with a longer ferment.,,
+92,Fix leaky bathroom faucet,Home,Plumbing,plumbing;repair,2,2,Long-term,Obligation,Open,2026-09-22,2026-12-20,2026-09-19,,,1.5,0,,,https://www.familyhandyman.com,Replace the washer; shut off supply first.,,
+93,Review pull requests,Work,Engineering,code;review,3,2,Short-term,Obligation,Open,2026-10-21,2026-12-03,2026-10-20,,,4,0,,,https://www.atlassian.com/agile,Clear the backlog before standup.,,
+94,Declutter garage,Home,Storage,organize,3,5,Short-term,Obligation,In Progress,2026-09-12,2026-12-12,2026-09-09,,,2,0.8,,,https://www.familyhandyman.com,"Donate, recycle, or toss.",,
+95,Plan dinner with friends,Social,Friends,dinner,3,2,Short-term,Joy,Open,2026-09-20,2026-11-09,2026-09-15,,,2,0,94,,https://www.meetup.com,Pick a date and a restaurant.,,
+96,Cancel unused subscriptions,Finance,Budgeting,savings,2,2,Short-term,Joy,Open,2026-11-19,2026-12-18,2026-09-04,,,0.5,0,,,https://www.irs.gov,Check bank statements.,,
+97,Prepare quarterly presentation,Work,Planning,slides;quarterly,2,1,Long-term,Joy,Complete,2026-08-30,2026-10-24,2026-08-30,2026-10-16,,6,6,,,https://www.atlassian.com/agile,Slides on goals and results.,Yes,
+98,Plan next sprint,Work,Planning,agile,5,2,Short-term,Obligation,Complete,2026-10-18,2026-12-21,2026-10-18,2026-10-16,,0.5,0.5,,,https://www.atlassian.com/agile,Rank the backlog with the team.,Yes,
+99,Write blog post about what I learned,Learning,Writing,writing,1,5,Short-term,Obligation,Complete,2026-10-28,2026-12-01,2026-10-27,2026-10-16,,3,3,,,https://docs.python.org/3,Aim for 800 words.,Yes,
